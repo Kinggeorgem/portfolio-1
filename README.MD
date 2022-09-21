@@ -17,4 +17,4 @@ No setup required, HTML done manually
 I hereby give authority free of charge
 
 ## Link
-[Link](https://github.com/Mashmighty/Portfolio.git)# portfolio
+[Link](https://mashmighty.github.io/portfolio/)# portfolio
